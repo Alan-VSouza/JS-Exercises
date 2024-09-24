@@ -36,6 +36,6 @@ This project contains solutions to six different JavaScript exercises. Each exer
    - **Example Output**: 2
    - **Solution**: Based on the values of variables `a` and `b`, the logic determines a final result and outputs it.
 
-### 🛠 Technologies Used
+## 🛠 Technologies Used
    - HTML5
    - JavaScript (ES6+)
